@@ -1,2 +1,2 @@
 # Python_code
-Client-server application using PyQt5
+Task 6: Client-server application using PyQt5
